@@ -1,4 +1,4 @@
-# no-battery-finder
+# No Battery Telescope Finder
 This finder was designed to use as part of the library telescope program - http://librarytelescope.org. The red dot finder that is modified for use in this program is sometimes difficult to keep operational over during long-term use by library patrons. This is meant to be a replacement for it that does not require batteries or have any wires.
 
 ## Additional parts
