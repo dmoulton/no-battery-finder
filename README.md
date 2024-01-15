@@ -3,7 +3,7 @@ This finder was designed to use as part of the library telescope program - http:
 
 ## Additional parts
 
-You will need 2 M3-.5x25mm screws along with hex nuts. The screws should have countersink-type heads. You may be able to use 20mm length if you have to, but 25mm will be better.
+You will need 2 M3-.5x30mm screws along with hex nuts. The screws should have countersink-type heads. 
 
 ## Filament
 
